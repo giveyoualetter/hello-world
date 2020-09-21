@@ -12,5 +12,6 @@ readedits is a subbranch of master
 
 有一条新增的从本地dev
 
-*****************************
+#删除了*
+
 这是本地添加的内容
